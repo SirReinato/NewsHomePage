@@ -6,7 +6,7 @@ Esta é uma solução para o [News homepage challenge on Frontend Mentor](https:
 
 - [Visão geral](#visão geral)
   - [O desafio](#o desafio)
-  - [Captura de tela](#screenshot)
+  - [Captura de tela]((./assets/screenshot/Captura%20de%20tela%201.png))
   - [Links](#links)Tradução
 - [Meu processo](#meu processo)
 - [Autor](#autor)
@@ -35,7 +35,7 @@ Mobile
 ### Links
 
 - URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- URL do site em directo: [Adicionar URL do site em directo aqui] (https://your-live-site-url.com)
+- URL do site em directo: [https://sirreinato.github.io/NewsHomePage/]
 
 ## Meu processo
 
@@ -49,6 +49,6 @@ Mobile
 
 ## Autor
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@SirReinato](https://www.frontendmentor.io/profile/SirReinato)
+- Twitter - [@Sir_Reinato](hthttps://twitter.com/Sir_Reinato)
 

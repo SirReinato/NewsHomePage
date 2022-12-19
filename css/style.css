@@ -107,11 +107,11 @@ img{
         text-align: left;
         padding: 0;
     }
-    .menu nav .lista-mobile a li{
+    .menu nav .lista-mobile a {
         margin-top: 30px;
         color: var(--cor-secundaria-Azul-muito-escuro);
     }
-    .menu nav .lista-mobile a li:hover{
+    .menu nav .lista-mobile a :hover{
         color: var(--cor-principal-laranja);
     }
     
